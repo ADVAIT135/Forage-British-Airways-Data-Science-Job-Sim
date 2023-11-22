@@ -14,3 +14,7 @@ This Repository consist of all the Jupyter Notebooks, Images and .CSV files of t
 #### [cleaned and filtered .csv file for unverified reviews](https://github.com/ADVAIT135/Forage-British-Airways-Data-Science-Job-Sim/blob/9c5bda1210e7e0aa3600940fc275b88c01d57088/Task%201%3A%20Web%20scraping%20to%20gain%20company%20insights/Unverfied%20Trips%20sentiment%20score%20and%20label.csv)
 #### [cleaned and filtered .csv file for neither verified nor unverified reviews](https://github.com/ADVAIT135/Forage-British-Airways-Data-Science-Job-Sim/blob/9c5bda1210e7e0aa3600940fc275b88c01d57088/Task%201%3A%20Web%20scraping%20to%20gain%20company%20insights/Neither%20Verified%20nor%20Unverfied%20Trips%20and%20reviews.csv)
 #### [PPT file for Task 1](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FADVAIT135%2FForage-British-Airways-Data-Science-Job-Sim%2Fmain%2FTask%25201%253A%2520Web%2520scraping%2520to%2520gain%2520company%2520insights%2FForage%2520British%2520Airways%2520Data%2520Science%2520Job%2520Sim%2520Task%25201%2520-%2520Web%2520scraping%2520to%2520gain%2520company%2520insights.pptx&wdOrigin=BROWSELINK)
+
+
+## Task 2 : Predicting customer buying behaviour
+#### [Task 2 Python Notebook](https://nbviewer.org/github/ADVAIT135/Forage-British-Airways-Data-Science-Job-Sim/blob/975f895b96364ec91fd9cbb1394f2e72cef2faa9/Task%202%3A%20Predicting%20customer%20buying%20behaviour/Forage%20British%20Airways%20Data%20Science%20Task%202%20-%20Predicting%20customer%20buying%20behavior.ipynb)
