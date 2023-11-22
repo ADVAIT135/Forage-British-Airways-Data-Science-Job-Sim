@@ -18,3 +18,4 @@ This Repository consist of all the Jupyter Notebooks, Images and .CSV files of t
 
 ## Task 2 : Predicting customer buying behaviour
 #### [Task 2 Python Notebook](https://nbviewer.org/github/ADVAIT135/Forage-British-Airways-Data-Science-Job-Sim/blob/975f895b96364ec91fd9cbb1394f2e72cef2faa9/Task%202%3A%20Predicting%20customer%20buying%20behaviour/Forage%20British%20Airways%20Data%20Science%20Task%202%20-%20Predicting%20customer%20buying%20behavior.ipynb)
+#### [Cleaned and Encoded Dataset for Task 2](https://raw.githubusercontent.com/ADVAIT135/Forage-British-Airways-Data-Science-Job-Sim/main/Task%202%3A%20Predicting%20customer%20buying%20behaviour/Cleaned%20and%20Encoded%20British%20Airways%20Data.csv)
