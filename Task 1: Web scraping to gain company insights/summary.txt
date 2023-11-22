@@ -1,0 +1,5 @@
+Here is your task
+Scrape data from the web
+The first thing to do will be to scrape review data from the web. For this, you should use a website called Skytrax.
+
+The team leader wants you to focus on reviews specifically about the airline itself. You should collect as much data as you can in order to improve the output of your analysis.
